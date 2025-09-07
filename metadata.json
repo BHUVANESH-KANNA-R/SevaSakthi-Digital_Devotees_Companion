@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SevaSathi: Digital Pilgrim Companion",
+  "description": "A digital companion for large religious gatherings like Mahakumbh, providing navigation, family tracking, safety alerts, and eco-friendly gamification to enhance the pilgrim experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
