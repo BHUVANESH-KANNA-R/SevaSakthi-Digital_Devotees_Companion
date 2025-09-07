@@ -1,4 +1,4 @@
-# My Autonomous Web App Prototype
+# SevaSakthi-Digital_Devotees_Companion
 
 🔗 **Public Code Repository Link:**  
 https://github.com/BHUVANESH-KANNA-R/SevaSakthi-Digital_Devotees_Companion
